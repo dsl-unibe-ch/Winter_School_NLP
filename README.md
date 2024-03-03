@@ -14,7 +14,7 @@ Welcome to the official repository for the Bern Winter School in NLP. This repos
 - **09:00 - 10:15:** Different methods & approaches in NLP
 - **10:15 - 10:45:** Break
 - **10:45 - 12:30:** Word embedding
-- **12:30 - 17:00:** Skiing, work or whatever
+- **12:30 - 17:00:** Afternoon break
 - **17:00 - 18:30:** NLP Open-source libraries in Python
 - **19:00 - 20:30:** Dinner hosted by Regina
 
