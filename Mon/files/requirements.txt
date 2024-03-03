@@ -1,0 +1,10 @@
+nltk
+spacy
+textblob
+torch
+transformers
+scikit-learn
+pandas
+numpy
+gensim
+notebook
